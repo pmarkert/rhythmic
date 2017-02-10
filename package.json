@@ -1,0 +1,11 @@
+{
+  "name": "rhythmic",
+  "version": "0.1.0",
+  "description": "Fluent interface for building out regular expressions",
+  "main": "rhythmic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phillip Markert <pmarkert@ephisys.com>",
+  "license": "ISC"
+}
